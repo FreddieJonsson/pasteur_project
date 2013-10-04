@@ -1,0 +1,3 @@
+This project is for the bootcamp initiation with git
+taht is the second step
+third try
